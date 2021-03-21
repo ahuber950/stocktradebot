@@ -15,7 +15,6 @@ import matplotlib.pyplot as plt
 from datetime import datetime, timedelta, date
 
         
-
 class Stock_Info:
     
     def __init__(self, ticker):
