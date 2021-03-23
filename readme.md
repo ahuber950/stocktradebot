@@ -1,0 +1,1 @@
+Backtesting app for simulating alogrithms for stock market trading. Developed and meant to be run on Anaconda3 Spyder.
